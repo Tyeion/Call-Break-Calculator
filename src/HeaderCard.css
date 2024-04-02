@@ -1,0 +1,20 @@
+.header-card {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    border: 2mm solid #999; /* Darker gray border */
+    border-radius: 10mm; /* Rounded corners */
+    padding: 10mm 5mm; /* 10mm top and bottom, 5mm left and right */
+    margin: 10mm auto; /* 10mm margin from top and bottom, auto margin for horizontal centering */
+    width: fit-content;
+  }
+  
+  .content {
+    text-align: center; /*Center the text horizontally */ 
+  }
+  
+  .content h2 {
+    margin: 0;
+    font-weight: bold; /* Make the heading text bold */
+  }
+  

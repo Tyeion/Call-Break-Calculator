@@ -1,0 +1,18 @@
+.table-card {
+    padding: 20px; /* Add padding to the card */
+    border: 2px dotted #999; /* Add vertical dotted border */
+    width: calc(100% - 40px); /* Make the card fill the window size minus padding */
+    margin: 20px auto; /* Center the card horizontally */
+  }
+  
+  .table-card table {
+    width: 100%; /* Make the table fill the container */
+    border-collapse: collapse; /* Collapse table borders */
+  }
+  
+  .table-card th,
+  .table-card td {
+    border: 1px solid #ccc; /* Add borders to table cells */
+    padding: 10px; /* Add padding to table cells */
+  }
+  
